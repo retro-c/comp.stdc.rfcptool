@@ -1,3 +1,4 @@
 build/** linguist-generated=true
+doc/** linguist-documentation=true
 notes/** linguist-documentation=true
 src/** linguist-language=C

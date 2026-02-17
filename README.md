@@ -2,7 +2,7 @@
 
 **Endeavor: Retro-C**  
 **Repository: \<[http://source.retro-c.net/comp.stdc.rfcptool](http://source.retro-c.net/comp.stdc.rfcptool)\>**  
-**Version: 1.0!0 (alpha)**  
+**Version: 1.0!1 (alpha, dev)**  
 **Environments: C90 [ C99 ]**  
 **Compliance: Retro-Frame 1.0**  
 **License: MIT (see `LICENSE`)**  
@@ -112,7 +112,7 @@ Arguments (cpspec):
   where `<identifier>` represents either the name or the number of a codepage.
   The corresponding codepage specification file of the name `<domain>.CPS` is
   searched and the codepage, if found, is build according the standard rules
-  (see Retro-Frame Data Format Specifications, `/spec/rfdf-cpspec.txt`).
+  (see **Retro-Frame Data Format Specifications**, `spec/rfdf-cpspec.txt`).
 * `<dest-file>` is the path to the resulting binary codepage file (`*.CP`). If
   omitted, a codepage code file format is written to stdout.
 
