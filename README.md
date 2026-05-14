@@ -1,7 +1,7 @@
 # Retro-Frame Codepage Tool
 
 **Endeavor: Retro-C**  
-**Repository: \<[http://source.retro-c.net/comp.stdc.rfcptool](http://source.retro-c.net/comp.stdc.rfcptool)\>**  
+**Repository: \<[http://source.retro-c.net/util.stdc.rfcptool](http://source.retro-c.net/util.stdc.rfcptool)\>**  
 **Version: 1.0!1 (alpha, dev)**  
 **Environments: C90 [ C99 ]**  
 **Compliance: Retro-Frame 1.0**  

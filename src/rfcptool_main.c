@@ -11,7 +11,7 @@
  *
  *  Source File
  *
- *  Repository:    <http://source.retro-c.net/comp.stdc.rfcptool>
+ *  Repository:    <http://source.retro-c.net/util.stdc.rfcptool>
  *  File:          /src/rfcptool_main.c//
  *  Version:       01.00!00
  *  Environments:  C90
@@ -128,7 +128,7 @@ int main(int argc, char *argv[])
 		printf("OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\n");
 		printf("SOFTWARE.\n\n");
 		
-		fprintf(stderr, "Source: <http://source.retro-c.net/comp.stdc.rfcptool>\n");
+		fprintf(stderr, "Source: <http://source.retro-c.net/util.stdc.rfcptool>\n");
 		
 		if (argc == 2)
 		{

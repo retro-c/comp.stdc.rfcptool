@@ -11,7 +11,7 @@
  *
  *  Header File
  *
- *  Repository:    <http://source.retro-c.net/comp.stdc.rfcptool>
+ *  Repository:    <http://source.retro-c.net/util.stdc.rfcptool>
  *  File:          /src/rfcptool_def.h//
  *  Version:       01.00!00
  *  Environments:  C90 [ C99 ]

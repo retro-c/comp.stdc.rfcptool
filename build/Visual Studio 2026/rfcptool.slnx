@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="rfcptool/rfcptool.vcxproj" Id="88d4a21c-39cc-4c2a-8401-17dd3df855db" />
+</Solution>
