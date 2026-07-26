@@ -56,8 +56,7 @@ If you have the GNU Compiler Collection (GCC) and a make utility installed,
 change to the directory `build/gcc/` and run the make utility (e.g. by `make`
 or a similar command) in order to process the file `build/gcc/Makefile`.
 
-The executable is created and stored in `build/gcc/bin` while temporary object
-files are stored in `build/gcc/tmp`.
+The executable is created and stored in `build/gcc/bin`.
 
 ### Visual Studio
 
